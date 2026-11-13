@@ -1,4 +1,4 @@
-# Memoria técnica del despliegue de Ubuntu en VirtualBox
+# Despliegue de Ubuntu en VirtualBox
 
 ## Objetivo
 
